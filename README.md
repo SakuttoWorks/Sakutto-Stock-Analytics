@@ -14,7 +14,7 @@
 👉 **[サクッと！自動化工房（BOOTH）](https://sakuttoworks.booth.pm)**
 
 ## 🛠️ 開発者向け（ソースコードから実行する場合）
-1. Python 3.x 環境で `pip install -r requirements.txt` を実行して必要なライブラリをインストールしてください。
+1. Python 3.10 以上の環境で `pip install -r requirements.txt` を実行して必要なライブラリをインストールしてください。
 2. `python main.py` で起動します。
 
 ---
