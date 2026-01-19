@@ -36,8 +36,11 @@
 - 本ツールの利用により生じたいかなる損害についても、開発者は一切の責任を負いません。投資判断は自己責任で行ってください。
 
 ---
+
 ### 🔗 リンク
 - **BOOTH**: [サクッと！自動化工房](https://sakuttoworks.booth.pm)
 - **YouTubeチャンネル**: [サクッと！自動化工房](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)
+
+---
 
 © 2026 サクッと！自動化工房
