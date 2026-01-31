@@ -1,50 +1,78 @@
-# サクッと！株価ノート 📈
+# 📈 Sakutto Stock Tracker | サクッと！株価ノート
 
-**あなたのPC作業を「サクッと」変える、実用的なツールをお届けします。**
+<p align="left">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Made%20in-Japan-red?style=for-the-badge" alt="Made in Japan">
+  <img src="https://img.shields.io/badge/2026-Agentic%20Economy-orange?style=for-the-badge" alt="2026 Focus">
+</p>
+
+> **「面倒な作業を、サクッと解決。」**
+> **"Solving complexities, instantly. Empowering investors, globally."**
+
+あなたのPC作業を「サクッと」変える、実用的なツールをお届けします。
 
 「自動化したいけど、設定が難しそう…」
 そんな個人投資家のための、Python自動化ツールです。専門知識不要、面倒なセットアップや「黒い画面」も一切なしで、Pythonの便利さを1クリックで享受できます。
 
-## 🚀 特徴
-- **1クリックで完了**: 銘柄リストを読み込み、最新の株価データを自動収集・分析します。
-- **そのまま使えるExcel**: データだけでなく、見やすいグラフや移動平均線が付いたExcelファイルを自動生成します。
-- **環境構築不要**: 本リポジトリにはソースコードを公開していますが、BOOTHではすぐに使える「実行ファイル版（EXE）」を配布しています。
+---
 
-## 📦 入手方法（完成品版）
-プログラムの知識がなくてもすぐに使える「実行ファイル版」は、以下の公式ショップにて配布・販売しております。
+## 🚀 Features (特徴)
 
-- **価格**: **1,480円**（買い切り / 追加課金なし）
-
-👉 **[サクッと！株価ノート ダウンロードページ（BOOTH）](https://sakuttoworks.booth.pm/items/7830324)**
-
-## 🛠️ 開発者向け（ソースコードから実行する場合）
-1. Python 3.10 以上の環境で `pip install -r requirements.txt` を実行して必要なライブラリをインストールしてください。
-2. `python main.py` で起動します。
+- **1-Click Automation (1クリックで完了)** 銘柄リストを読み込み、最新の株価データを自動収集・分析します。  
+  *Automates gathering financial data from Yahoo Finance.*
+- **Visual Excel Output (そのまま使えるExcel)** データだけでなく、見やすいグラフや移動平均線が付いたExcelファイルを自動生成します。  
+  *Generates professional Excel charts and moving average lines automatically.*
+- **Zero Setup (環境構築不要)** BOOTH等で配布している「実行ファイル版（EXE）」なら、Pythonのインストール不要ですぐに使えます。  
+  *Portable execution for Windows users. Ready to use out of the box.*
 
 ---
 
-## 📢 関連ツール・ニュース
-**【Now On Sale】Googleマップから営業リストを自動作成！**
-面倒なコピペ作業から解放される、時短ツールが大好評発売中です。
-👉 **[解説記事を読む (Note)](https://note.com/sakutto_works/n/nf161ae773d0b)**
-👉 **[サクッと！リスト作成（BOOTH）](https://sakuttoworks.booth.pm/items/7894267)**
+## 🏪 How to Get (入手方法)
 
-**【Coming Soon】2026年2月リリース予定**
-**「サクッと！請求書メーカー」**（脱サブスク・月額無料の請求書発行ツール）を開発中です。
+プログラムの知識がなくてもすぐに使える「完成品（EXE版）」は、以下の公式ショップにて配布・販売しております。
+
+- **Price**: **1,480 JPY** (Buy once, use forever)
+
+🌍 **Global Store:** [Under Review on Lemon Squeezy]  
+🇯🇵 **Domestic Store:** **[サクッと！株価ノート (BOOTH)](https://sakuttoworks.booth.pm/items/7830324)**
+
+---
+
+## 📂 Repository Structure (リポジトリ構成)
+
+- **`main.py`**: The core engine of the tracker.
+- **`【設定】銘柄リスト`**: Contains `jp_stocks.csv`.  
+  *(Note: We proudly maintain this Japanese folder name as a mark of its origin and reliability.)*
+
+---
+
+## 🛠️ For Developers (開発者向け)
+
+1. Python 3.10+
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+---
+
+## 📢 Related Projects
+**【Now On Sale】Googleマップから営業リストを自動作成！** 👉 **[サクッと！リスト作成（BOOTH）](https://sakuttoworks.booth.pm/items/7894267)**
+
+**【Coming Soon】2026年2月リリース予定** **「サクッと！請求書メーカー」**（脱サブスク・月額無料の請求書発行ツール）を開発中です。
 
 ---
 
 ## ⚠️ 免責事項 (Disclaimer)
-- 本ツールは投資判断の参考となる情報の提供を目的としており、投資勧誘を目的としたものではありません。
-- 本ツールの利用により生じたいかなる損害についても、開発者は一切の責任を負いません。投資判断は自己責任で行ってください。
+- 本ツールは投資判断の参考となる情報の提供を目的としており、投資勧誘を目的としたものではありません。投資判断は自己責任で行ってください。
+- *This tool is for informational purposes only. The developer is not responsible for any investment decisions or losses.*
 
 ---
 
-### 🔗 リンク
-- **BOOTH (公式ショップ)**: [sakuttoworks.booth.pm](https://sakuttoworks.booth.pm)
-- **Note (公式ブログ)**: [note.com/sakutto_works](https://note.com/sakutto_works)
-- **YouTubeチャンネル**: [サクッと！自動化工房](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)
+### 🔗 Links
+- **Profile**: [Sakutto Works (GitHub Profile)](https://github.com/SakuttoWorks)
+- **Note**: [Official Blog (Tips & News)](https://note.com/sakutto_works)
+- **YouTube**: [サクッと！自動化工房 (Demo)](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)
 
 ---
-
-© 2026 サクッと！自動化工房
+<p align="center">
+  © 2026 サクッと！自動化工房 / Sakutto Works
+</p>
