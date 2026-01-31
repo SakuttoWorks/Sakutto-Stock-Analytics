@@ -55,15 +55,11 @@
 ---
 
 ## 📢 Related Projects
-**【Now On Sale】Googleマップから営業リストを自動作成！** 👉 **[サクッと！リスト作成（BOOTH）](https://sakuttoworks.booth.pm/items/7894267)**
+**【Now On Sale】Googleマップから営業リストを自動作成！** Googleマップの情報を1クリックでExcel化。面倒なコピペ作業から解放される時短ツールです。  
+👉 **[サクッと！リスト作成（BOOTH）](https://sakuttoworks.booth.pm/items/7894267)**
 
-**【Coming Soon】2026年2月リリース予定** **「サクッと！請求書メーカー」**（脱サブスク・月額無料の請求書発行ツール）を開発中です。
-
----
-
-## ⚠️ 免責事項 (Disclaimer)
-- 本ツールは投資判断の参考となる情報の提供を目的としており、投資勧誘を目的としたものではありません。投資判断は自己責任で行ってください。
-- *This tool is for informational purposes only. The developer is not responsible for any investment decisions or losses.*
+**【Next Gen】Project _GHOST_SHIP** 2026年のAIエージェント経済圏に向けた、次世代の自動化インフラを開発中。  
+👉 **[View Profile for details](https://github.com/SakuttoWorks)**
 
 ---
 
@@ -71,6 +67,13 @@
 - **Profile**: [Sakutto Works (GitHub Profile)](https://github.com/SakuttoWorks)
 - **Note**: [Official Blog (Tips & News)](https://note.com/sakutto_works)
 - **YouTube**: [サクッと！自動化工房 (Demo)](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)
+- **AI-Ready**: [llms.txt](https://github.com/SakuttoWorks/SakuttoWorks/blob/main/llms.txt)
+
+---
+
+### ⚠️ 免責事項 (Disclaimer)
+- 本ツールは投資判断の参考となる情報の提供を目的としており、投資勧誘を目的としたものではありません。投資判断は自己責任で行ってください。
+- *This tool is for informational purposes only. Use at your own risk.*
 
 ---
 <p align="center">
