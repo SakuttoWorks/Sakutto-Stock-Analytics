@@ -1,4 +1,4 @@
-# 📈 Sakutto Stock Tracker | サクッと！株価ノート
+# 📈 Sakutto Stock Analytics: Market Data Tool | サクッと！株価ノート
 
 <p align="left">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python">
@@ -48,7 +48,7 @@
 
 This repository hosts the source code for transparency and customizability.
 
-- **`main.py`**: The core engine of the tracker.
+- **`main.py`**: The core engine of the analytics tool.
 - **`【設定】銘柄リスト`**: Configuration folder containing `jp_stocks.csv`.
   *(Note: We intentionally maintain Japanese directory names as a signature of our domestic engineering roots. The system is fully Unicode-compatible.)*
 
